@@ -153,7 +153,7 @@ This reverts commit 1a7ca325a9fd97c3901ae68d46a620466f01c6ad.
 
 ## Tag
 <pre><code>➜ git:(master) git tag v1.0.1
-➜  test1 git:(master) git tag
+➜ git:(master) git tag
 v1.0.1
 (END)
 </code></pre>
@@ -161,7 +161,7 @@ v1.0.1
 ## Rebase
 <pre><code>➜ git:(dev_test) git rebase master dev_test
 First, rewinding head to replay your work on top of it...
-➜  test1 git:(dev_test) git log
+➜ git:(dev_test) git log
 commit b7c7545fd77d26224fc968b056db65b90420becf (HEAD -> dev_test, origin/master, master)
 Author: minjun.ha <haminjun0@gmail.com>
 Date:   Wed Jun 6 16:31:13 2018 +0900
