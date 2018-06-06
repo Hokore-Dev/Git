@@ -3,11 +3,11 @@ Git 다운로드 : https://git-scm.com/
 
 ## 사용자 설정
 <pre><code>➜ git config --global user.name "사용자명"
-➜  git config --global user.email "메일 주소"
+➜ git config --global user.email "메일 주소"
 </code></pre>
 
 ## 프로젝트 생성
-<pre><code>➜ $git init 
+<pre><code>➜ git init 
 Initialized empty Git repository in /Volumes/PartitionDrive/test1/.git/
 ➜  git:(master)
 </code></pre>
